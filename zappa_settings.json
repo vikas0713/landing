@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "aws_region": "us-east-1",
+    "django_settings": "dt_design.settings",
+    "profile_name": "default",
+    "s3_bucket": "zappa-o3a52ncsq",
+    "certificate_arn": "arn:aws:acm:us-east-1:105323613855:certificate/3e66fbf3-a4c1-40af-b18f-385a19e05f6c",
+    "domain": "www.dwntwn.in"
+  }
+}
